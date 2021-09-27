@@ -56,7 +56,7 @@ h3 {
 
 .container input {
   border: none;
-  font-size: 10px;
+  font-size: 12px;
   border-bottom: 1px solid #5f0505;
   padding: 3px 5px 3px 0;
   height: 15px;
@@ -82,7 +82,7 @@ input[type="number"] {
 }
 textarea {
   padding: 5px 8px 4px 0;
-  font-size: 10px;
+  font-size: 12px;
   font-family: "Poppins", sans-serif;
   font-weight: 100;
   outline: none;
