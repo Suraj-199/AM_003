@@ -1,0 +1,206 @@
+
+			@media only screen
+			{
+			
+			.s1{
+				background:url('./AM_003/AM_003_D/Copy\ of\ AM_003_D.png');
+				background-size:cover;
+				background-size: 100% 100%;
+			}
+			.s2{
+				background:url('./AM_003/AM_003_D/Copy\ of\ AM_003_D\(2\).png');
+				background-size:cover;
+				background-size: 100% 100%;
+			}
+			#snd{
+					text-align:left;
+					margin-left:2em;
+					font-size:4rem;
+				}
+			.s3{
+				background:url('./AM_003/AM_003_D/Copy\ of\ AM_003_D\(3\).png');
+				background-size:cover;
+				background-size: 100% 100%;
+			}
+			.s4{
+				background:url('./AM_003/AM_003_D/Copy\ of\ AM_003_D\(4\).png');
+				background-size:cover;
+				background-size: 100% 100%;
+			}
+			.s5{
+				background: url(./bg-a.png);
+				background-size: cover;
+				
+			}
+		}
+			
+			@media only screen and (max-width:500px){
+				.s1{
+				background:url('./AM_003/AM_003_P/Copy\ of\ AM_003_P.png');
+				background-size:cover;
+				background-size: 100% 100%;
+			}
+			.s2{
+				background:url('./AM_003/AM_003_P/Copy\ of\ AM_003_P\(2\).png');
+				background-size:cover;
+				background-size: 100% 100%;
+				
+			}
+			#snd{
+					text-align:left;
+					margin-left:2em;
+					font-size:4rem;
+				}
+			.s3{
+				background:url('./AM_003/AM_003_P/Copy\ of\ AM_003_P\(3\).png');
+				background-size:cover;
+				
+				 background-size: 100% 100%;
+  
+			}
+			.s4{
+				background:url('./AM_003/AM_003_P/Copy\ of\ AM_003_P\(4\).png');
+				background-size:cover;
+				
+				 background-size: 100% 100%;
+  
+			}
+			.s5{
+				background: url(./bg-a.png);
+				background-size: cover;
+				
+			}
+			.s6{
+				background: url(./form-bg-mobile.png);
+				background-size: cover;
+			}
+			}
+			
+			@media only screen 
+				and (min-device-width: 768px) 
+				 and (orientation: portrait)
+				and (-webkit-min-device-pixel-ratio: 1) 
+			{
+				.s1{
+				background:url('./AM_003/AM_003_TAB_P/Copy\ of\ 1.png');
+				background-size:cover;
+				
+				background-size: 100% 100%;
+			}
+			.s2{
+				background:url('./AM_003/AM_003_TAB_P/Copy\ of\ 2.png');
+				background-size:cover;
+				background-size: 100% 100%;
+				
+			}
+			#snd{
+					text-align:left;
+					margin-left:2em;
+					font-size:4rem;
+				}
+			.s3{
+				background:url('./AM_003/AM_003_TAB_P/Copy\ of\ 3.png');
+				background-size:cover;
+				
+				 background-size: 100% 100%;
+  
+			}
+			.s4{
+				background:url('./AM_003/AM_003_TAB_P/Copy\ of\ 4.png');
+				background-size:cover;
+				
+				 background-size: 100% 100%;
+  
+			}
+			.s5{
+				background: url(./bg-a.png);
+				background-size: cover;
+				
+			}
+			.s6{
+				background: url(./form-bg-mobile.png);
+				background-size: cover;
+			}
+			}
+			@media only screen 
+				and (min-device-width: 768px) 
+				 and (orientation:landscape)
+				and (-webkit-min-device-pixel-ratio: 1) 
+			{
+				.s1{
+				background:url('./AM_003/AM_003_TAB_L/Copy\ of\ 1.png');
+				background-size:cover;
+				
+				background-size: 100% 100%;
+			}
+			.s2{
+				background:url('./AM_003/AM_003_TAB_L/Copy\ of\ 2.png');
+				background-size:cover;
+				background-size: 100% 100%;
+				
+			}
+			#snd{
+					text-align:left;
+					margin-left:2em;
+					font-size:4rem;
+				}
+			.s3{
+				background:url('./AM_003/AM_003_TAB_L/Copy\ of\ 3.png');
+				background-size:cover;
+				
+				 background-size: 100% 100%;
+  
+			}
+			.s4{
+				background:url('./AM_003/AM_003_TAB_L/Copy\ of\ 4.png');
+				background-size:cover;
+				
+				 background-size: 100% 100%;
+  
+			}
+			.s5{
+				background: url(./bg-a.png);
+				background-size: cover;
+				
+			}
+			
+			}
+
+			@media only screen 
+				and (min-width: 992px)
+			{
+			
+			.s1{
+				background:url('./AM_003/AM_003_D/Copy\ of\ AM_003_D.png');
+				background-size:cover;
+				background-size: 100% 100%;
+			}
+			.s2{
+				background:url('./AM_003/AM_003_D/Copy\ of\ AM_003_D\(2\).png');
+				background-size:cover;
+				background-size: 100% 100%;
+			}
+			#snd{
+					text-align:left;
+					margin-left:2em;
+					font-size:4rem;
+				}
+			.s3{
+				background:url('./AM_003/AM_003_D/Copy\ of\ AM_003_D\(3\).png');
+				background-size:cover;
+				background-size: 100% 100%;
+			}
+			.s4{
+				background:url('./AM_003/AM_003_D/Copy\ of\ AM_003_D\(4\).png');
+				background-size:cover;
+				background-size: 100% 100%;
+			}
+			.s5{
+				background: url(./bg-a.png);
+				background-size: cover;
+				margin-bottom: 0%;
+				
+			}
+		}
+		
+	
