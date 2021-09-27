@@ -82,9 +82,9 @@ input[type="number"] {
 }
 textarea {
   padding: 5px 8px 4px 0;
-  font-size: 18px;
+  font-size: 10px;
   font-family: "Poppins", sans-serif;
-  font-weight: 400;
+  font-weight: 100;
   outline: none;
   border: none;
   color: #595959;
